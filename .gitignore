@@ -1,0 +1,18 @@
+# Derleme çıktıları (build output) - bunlar arkadaşınızın kendi bilgisayarında oluşacak
+Debug/
+Release/
+
+# STM32CubeIDE workspace'e özel dosyalar (proje dışı, paylaşılmamalı)
+.metadata/
+
+# Eclipse/CubeIDE geçici ayar dosyaları
+.settings/
+.recommenders/
+
+# Log ve geçici dosyalar
+*.log
+*.tmp
+
+# Windows sistem dosyaları
+Thumbs.db
+desktop.ini
